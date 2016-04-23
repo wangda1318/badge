@@ -13,6 +13,7 @@
 		540112AE1CCAF54A00B9EAD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 540112AC1CCAF54A00B9EAD2 /* Main.storyboard */; };
 		540112B01CCAF54A00B9EAD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 540112AF1CCAF54A00B9EAD2 /* Assets.xcassets */; };
 		540112B31CCAF54A00B9EAD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 540112B11CCAF54A00B9EAD2 /* LaunchScreen.storyboard */; };
+		540112BC1CCAF55E00B9EAD2 /* BadgeButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 540112BB1CCAF55E00B9EAD2 /* BadgeButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		540112AF1CCAF54A00B9EAD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		540112B21CCAF54A00B9EAD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		540112B41CCAF54A00B9EAD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		540112BA1CCAF55E00B9EAD2 /* BadgeButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BadgeButton.h; sourceTree = "<group>"; };
+		540112BB1CCAF55E00B9EAD2 /* BadgeButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BadgeButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				540112A71CCAF54A00B9EAD2 /* AppDelegate.m */,
 				540112A91CCAF54A00B9EAD2 /* ViewController.h */,
 				540112AA1CCAF54A00B9EAD2 /* ViewController.m */,
+				540112BA1CCAF55E00B9EAD2 /* BadgeButton.h */,
+				540112BB1CCAF55E00B9EAD2 /* BadgeButton.m */,
 				540112AC1CCAF54A00B9EAD2 /* Main.storyboard */,
 				540112AF1CCAF54A00B9EAD2 /* Assets.xcassets */,
 				540112B11CCAF54A00B9EAD2 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				540112AB1CCAF54A00B9EAD2 /* ViewController.m in Sources */,
 				540112A81CCAF54A00B9EAD2 /* AppDelegate.m in Sources */,
 				540112A51CCAF54A00B9EAD2 /* main.m in Sources */,
+				540112BC1CCAF55E00B9EAD2 /* BadgeButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
